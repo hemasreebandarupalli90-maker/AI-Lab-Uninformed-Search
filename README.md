@@ -69,6 +69,17 @@ Implementation Files:
 * search_algorithms/missionaries_cannibals.py
 
 
+## AQI Simple Reflex Agent
+
+This program implements a Simple Reflex Agent that reads environmental pollution data from a CSV file and calculates the AQI based on predefined condition-action rules.
+
+The pollutant with the highest value is considered the dominant pollutant, and its value determines the AQI category.
+
+Files:
+AQI-Reflex-Agent/aqi_agent.py
+AQI-Reflex-Agent/visakhapatnam_aqi.csv
+
+
 ## Conclusion
 
 Through this assignment, important Artificial Intelligence concepts were implemented using Python programs. The Turing Test demonstrates evaluation of intelligent behavior. The CAPTCHA generator shows a human verification mechanism. The Missionaries and Cannibals problem demonstrates how uninformed search algorithms explore state spaces to find valid solutions.
